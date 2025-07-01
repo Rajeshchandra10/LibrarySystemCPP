@@ -64,18 +64,18 @@ At last if you want to exit choose a choice of 4 showing a Goodbye! message.
 
 -![image](https://github.com/user-attachments/assets/77cbfe1d-f546-43f2-8581-e2eb33bcd31c)
 
-Here In books.txt file, Each book is stored in 4 lines 
+<pre>'''Here In books.txt file, Each book is stored in 4 lines 
 -Book ID
 -Book Title
 -Book Author
--Isissued(0-Available/1-issued)
+-Isissued(0-Available/1-issued)'''</pre>
 
 ## Additional information
 
 To compile,use this command
--g++ main.cpp Book.cpp Library.cpp -o library.exe
+'g++ main.cpp Book.cpp Library.cpp -o library.exe'
 To Run
--./library.exe
+'./library.exe'
 
 
 
