@@ -28,6 +28,20 @@ It demonstrates core programming concepts such as Object-Oriented Programming (O
 - File handling with `fstream`,`ifstream`,`ofstream`
 - Tools: VS Code
 
+## File Structure
+
+LibrarySystemCPP/
+│
+├── Book.h // Book class declaration
+├── Book.cpp // Book class implementation
+├── Library.h // Library class declaration
+├── Library.cpp // Library class implementation
+├── main.cpp // Program entry point with menu
+├── books.txt // Auto-generated file storing book data
+
+
+
+
 
 
 
